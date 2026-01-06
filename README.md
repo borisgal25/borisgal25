@@ -37,6 +37,6 @@ Ik ben 13 jaar en leer op dit moment programmeren.
 <p align="left">
   <img src="https://img.shields.io/badge/Craft%20CMS-E33F24?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft CMS" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src=""/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg? style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
