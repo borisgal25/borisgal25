@@ -8,7 +8,7 @@
 
 - 🎂 Leeftijd: Ik ben *13* jaar.
 - 🚀 Project: Ik ben bezig mijn website een make-over te geven.
-- <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="16" style="vertical-align: text-bottom; margin-right: 5px;"/> Favoriete podcast: **shadows in the dark**
+- 📖 [PolarLearn](https://polarlearn.nl) is een grote aanrader.
 
 ### Meest gebruikt
 
