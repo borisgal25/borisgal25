@@ -7,9 +7,9 @@
 ### Over mij
 
 <div>
-  <img src="https://img.shields.io/badge/Leeftijd:-gold?style=for-the-badge" alt="Leeftijd"/> **13** jaar.
+  <img src="https://img.shields.io/badge/Leeftijd:-%23191970?style=for-the-badge" alt="Leeftijd"/><img src="https://img.shields.io/badge/13%20jaar-gold?style=for-the-badge" alt="13 jaar"/>
   <br>
-  <img src="https://img.shields.io/badge/Schoolniveau:-gold?style=for-the-badge" alt="Schoolniveau"/> *2 VWO*.
+  <img src="https://img.shields.io/badge/Schoolniveau:-%23191970?style=for-the-badge" alt="Schoolniveau"/><img src="https://img.shields.io/badge/2%20VWO-gold?style=for-the-badge" alt="2 VWO"/>
 </div>
 
 ### Meest gebruikte tools
