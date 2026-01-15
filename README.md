@@ -6,11 +6,10 @@
 
 ### Over mij
 
-- 🎂 Leeftijd: Ik ben *13* jaar.
-- 🚀 Project: Ik ben bezig mijn website een make-over te geven.
-- 📖 [PolarLearn](https://polarlearn.nl) is een grote aanrader.
+- 🎂 Leeftijd: **13** jaar.
+- 🏫 School: *2 VWO*.
 
-### Meest gebruikt
+### Meest gebruikte tools
 
 <div align="left"> 
 <img src="https://img.shields.io/badge/Craft%20CMS-%23191970?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft CMS"/>
@@ -19,4 +18,5 @@
 <img src="https://img.shields.io/badge/Notion-%23191970.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/Youtube-%23191970.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/TikTok-%23191970.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+<img src="https://img.shields.io/badge/📖_PolarLearn-%23191970?style=for-the-badge" alt="PolarLearn"/>
 </div>
