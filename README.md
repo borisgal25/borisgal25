@@ -2,7 +2,7 @@
 
 # Hallo, ik ben Boris Gal! 👋
 
-Ik ben 13 jaar en leer op dit moment programmeren.
+Ik ben 13 jaar.
 
 </div>
 
