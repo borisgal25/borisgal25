@@ -15,12 +15,12 @@
 ### Meest gebruikte tools
 
 <div align="left"> 
-  <a href="https://craftcms.com" target="_blank"><img src="https://img.shields.io/badge/Craft%20CMS-%23191970?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft CMS"/></a>
-  <a href="https://github.com/borisgal25" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23191970.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.figma.com/@borisgal25" target="_blank"><img src="https://img.shields.io/badge/Figma-%23191970.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="https://www.notion.so/@borisgal25" target="_blank"><img src="https://img.shields.io/badge/Notion-%23191970.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23191970.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.tiktok.com/@borisgal25" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23191970.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://www.instagram.com/borisgal25" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23191970.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://polarlearn.nl" target="_blank"><img src="https://img.shields.io/badge/📖_PolarLearn-%23191970?style=for-the-badge" alt="PolarLearn"/></a>
+  <a href="https://craftcms.com"><img src="https://img.shields.io/badge/Craft%20CMS-%23191970?style=for-the-badge&logo=craftcms&logoColor=white" alt="Craft CMS"/></a>
+  <a href="https://github.com/borisgal25"><img src="https://img.shields.io/badge/GitHub-%23191970.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.figma.com/@borisgal25"><img src="https://img.shields.io/badge/Figma-%23191970.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  <a href="https://www.notion.so/@borisgal25"><img src="https://img.shields.io/badge/Notion-%23191970.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
+  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/Youtube-%23191970.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.tiktok.com/@borisgal25"><img src="https://img.shields.io/badge/TikTok-%23191970.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.instagram.com/borisgal25"><img src="https://img.shields.io/badge/Instagram-%23191970.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://polarlearn.nl"><img src="https://img.shields.io/badge/📖_PolarLearn-%23191970?style=for-the-badge" alt="PolarLearn"/></a>
 </div>
